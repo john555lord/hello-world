@@ -5,4 +5,6 @@ I am changing this file a second time in April 2017.
 I am changing again on May 10,2017 to make different from master.
 want to test out rebase with the master 
 
-changed from local feature branch. 
+changed from local feature branch.
+
+Need to megre into develop. 
